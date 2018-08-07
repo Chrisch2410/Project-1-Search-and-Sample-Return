@@ -3,3 +3,7 @@
 ## Writeup by Christian Chavez
 ## Aug 2018
 
+<p align="center"> <img src="./misc/rover_image.jpg"> </p>
+
+## 1. Training Mode
+After have all the environment download and installed, I started recording data from the training mode and saving it in a IMG folder 
